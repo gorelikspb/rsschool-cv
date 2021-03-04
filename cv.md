@@ -8,7 +8,7 @@ I want to get experience of teamwork in IT and improve my skills.  Able to learn
 Python, Django, JavaScript, HTML, CSS, GIT, Docker
 
 ### Markdown code examples:
-`Markdown highlighting oneliner example
+`Markdown highlighting oneliner example`
 
 block of code:
 ```
