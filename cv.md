@@ -1,13 +1,13 @@
-Alexander Gorelik
+## Alexander Gorelik
 
-Contact:t.me/gorelikspb
+**Contact**: t.me/gorelikspb
 
 I want to get experience of teamwork in IT and improve my skills.  Able to learn quickly, be executive and creative.
 
+### Skills: 
+Python, Django, JavaScript, HTML, CSS, GIT, Docker
 
-Skills: Python, Django, JavaScript, HTML, CSS, GIT, Docker
-
-Markdown code examples:
+### Markdown code examples:
 `Markdown highlighting oneliner example
 
 block of code:
@@ -20,7 +20,7 @@ const func = (num) => {
 };  
 ```
 
-Experience:
+### Experience:
 Educational frontend project with adaptive photo gallery:
 https://github.com/gorelikspb/liongram
 
