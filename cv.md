@@ -21,16 +21,17 @@ const func = (num) => {
 ```
 
 ### Experience:
-Educational frontend project with adaptive photo gallery:
+* Educational frontend project with adaptive photo gallery:
 https://github.com/gorelikspb/liongram
 
-Simple web page with VK API authorization and user data manipulation:
+* Simple web page with VK API authorization and user data manipulation:
 https://github.com/gorelikspb/vk_api_js_friends
 
-Education:
-RS School ML Course (in progress)
-RS School JS Cource (in progress)
+### Education:
+* RS School 
+    *ML Course (in progress)
+    *JS Cource (in progress)
 
-English level: Upper-intermediate (according to EPAM test,  reading technical literature, able to keep up a conversation.
+**English level**: Upper-intermediate (according to EPAM test,  reading technical literature, able to keep up a conversation.
 
 
