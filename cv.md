@@ -29,8 +29,8 @@ https://github.com/gorelikspb/vk_api_js_friends
 
 ### Education:
 * RS School 
-    *ML Course (in progress)
-    *JS Cource (in progress)
+    * ML Course (in progress)
+    * JS Cource (in progress)
 
 **English level**: Upper-intermediate (according to EPAM test,  reading technical literature, able to keep up a conversation.
 
